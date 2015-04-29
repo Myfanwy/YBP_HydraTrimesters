@@ -72,3 +72,5 @@ names_export <- c("Date and Time (UTC)", "Receiver", "Transmitter","Station") # 
 colnames(d2) <- names_export
 
 write.csv(d2, "Yolo_Bypass_69khz_2014_Tri1_Detections.csv")
+
+
